@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dump components renders initially 1`] = `
+<button
+  onClick={undefined}
+>
+  Hi i am a dump component
+</button>
+`;

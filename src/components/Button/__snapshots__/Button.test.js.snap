@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders button with passed props 1`] = `
+<button
+  onClick={[Function]}
+>
+  this is test label
+   
+  0
+</button>
+`;
